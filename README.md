@@ -1,0 +1,2 @@
+# project_classification_winequality
+project uas untuk classification winewuality
